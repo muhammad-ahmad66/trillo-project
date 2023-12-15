@@ -6,7 +6,7 @@ This project is meticulously crafted with a primary focus on harnessing the powe
 
 ### Site URL
 
-- Live Preview: [Opens in new tab](https://trillo-project-scss.surge.sh/)
+- Live Preview: [Live Preview](https://trillo-project-scss.surge.sh/)
 
 ### Built with
 
