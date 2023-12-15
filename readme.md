@@ -2,7 +2,7 @@
 
 #### _Responsive Sass Website_
 
-This project is a responsive website that puts a strong emphasis on using Sass for styling. It features a custom grid system created with floating, along with various cool CSS effects and animations. The project follows the 7-1 pattern for organizing Sass files, making it easy to navigate and customize. Whether you're looking for a responsive design or interested in exploring Sass features, this project provides a practical example.
+This project is meticulously crafted with a primary focus on harnessing the power of CSS Flexbox. From layout structuring to responsive design, every aspect is tailored to leverage the flexibility and efficiency offered by Flexbox. Whether you're diving into Flexbox for the first time or seeking a practical application, this project showcases the capabilities of this CSS feature.
 
 ### Site URL
 
