@@ -6,7 +6,7 @@ This project is meticulously crafted with a primary focus on harnessing the powe
 
 ### Site URL
 
-- Live Preview: [Live Preview](https://muhammad-ahmad66.github.io/Natours-CSS-SCSS-/)
+- Live Preview: [Live Preview](https://trillo-project-scss.surge.sh/)
 
 ### Built with
 
